@@ -10,3 +10,4 @@ int main(void)
     cout<<"Enter another integer: ";
     cin>>b;
     cout<<"\nThe sum of "<<a<<" & "<<b<<" is: "<<a+b;
+}
